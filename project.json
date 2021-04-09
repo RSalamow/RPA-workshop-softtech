@@ -3,17 +3,21 @@
   "description": "Softtech eğitim gün 1",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
+    "UiPath.Database.Activities": "[1.4.0]",
     "UiPath.Excel.Activities": "[2.10.3-preview]",
     "UiPath.Mail.Activities": "[1.10.3-preview]",
+    "UiPath.PDF.Activities": "[3.4.0]",
     "UiPath.System.Activities": "[21.4.0-preview]",
     "UiPath.UIAutomation.Activities": "[21.4.1-preview]",
+    "UiPath.WebAPI.Activities": "[1.7.0]",
     "UiPath.Word.Activities": "[1.5.3]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "21.4.0.0",
-  "projectVersion": "1.0.1",
+  "projectVersion": "1.0.2",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
