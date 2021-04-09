@@ -6,7 +6,8 @@
     "UiPath.Excel.Activities": "[2.10.3-preview]",
     "UiPath.Mail.Activities": "[1.10.3-preview]",
     "UiPath.System.Activities": "[21.4.0-preview]",
-    "UiPath.UIAutomation.Activities": "[21.4.1-preview]"
+    "UiPath.UIAutomation.Activities": "[21.4.1-preview]",
+    "UiPath.Word.Activities": "[1.5.3]"
   },
   "webServices": [],
   "entitiesStores": [],
